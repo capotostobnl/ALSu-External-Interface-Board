@@ -1,0 +1,10 @@
+Channel,Voltage (OFF),Voltage (ON),Visual LED Pass/Fail
+0,5.114,0.032,True
+1,5.077,0.033,True
+2,5.098,0.034,True
+3,5.037,0.033,True
+4,-0.0,19.985,True
+5,-0.0,19.849,True
+6,-0.0,20.017,True
+7,-0.0,19.879,True
+8,0,24.235,True
